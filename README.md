@@ -17,6 +17,9 @@ On-Site is a mobile application designed to empower on-site construction managem
 ![image](https://github.com/Guo-baiyi/Construction-management/assets/120784487/e0b63531-aae0-49f8-82f7-6161ef5c77d4)  
 ![image](https://github.com/Guo-baiyi/Construction-management/assets/120784487/a9b11c81-d394-4b25-b3c1-38bf718ad5df)  
 
+https://www.figma.com/proto/ofu8oSb4p2J5jtjcnKeHqz/On-site-PSSS-APP-(Community)?node-id=73-456&p=f&t=ya9Fr4OdGDi5JWhx-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=73%3A456&show-proto-sidebar=1
+
+
 
 
 
